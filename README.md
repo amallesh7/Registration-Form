@@ -6,6 +6,8 @@ The form elements are neatly organized within the container, with appropriate sp
 Labels for form fields are displayed above the input fields for clarity.
 Input fields for username, email, and password are provided with appropriate input types and placeholders.
 The submit button is styled with a contrasting color to make it visually distinct and inviting for user interaction.
+
+
 Features:
 Responsive Design: The form layout adjusts gracefully to different screen sizes using media queries, ensuring a consistent user experience across devices.
 Input Validation: HTML5 input attributes such as required are used to enforce mandatory field submission.
